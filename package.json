@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy:weather-app": "npm run deploy --prefix ./proyectos/weather-app",
-    "deploy:another-app": "npm run deploy --prefix ./proyectos/ruta-proyecto"
+    "deploy:kanban-app": "npm run deploy --prefix ./proyectos/kanban-board"
   },
   "author": "",
   "license": "ISC",
