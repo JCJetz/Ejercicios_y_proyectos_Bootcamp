@@ -64,28 +64,7 @@ export default FilteredTasksProvider;
 
 # Deployment
 
-The application has been deployed using GitHub Pages on the following url:
-
-- https://JCJetz.github.io/kanban-board/
-
-
-# Local setup
-
-Although it is deployed in GitHub Pages, it can be configured to run in a local environment.
-
-To do so, the following steps must be performed:
-
-1. Clone the monorepo
-    > git clone https://github.com/JCJetz/kanban-board.git
-
-2. On root folder run install
-
-    > npm i
-
-3. Now you can start the app as it follows:
-
-    > npm start  (It will start the application)
-
+- 👀 The application has been deployed using GitHub Pages and can be viewer by [clicking here](https://JCJetz.github.io/Ejercicios_y_proyectos_Bootcamp/proyectos/kanban-board/)
 
 # Future improvements
 

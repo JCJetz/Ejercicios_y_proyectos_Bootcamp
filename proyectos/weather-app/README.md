@@ -5,7 +5,7 @@
 
 Waves permite conocer si las condiciones son ideales para surfear 🏄, así como los datos meteorológicos actuales de tu posición y el pronóstico semanal.  
 
-<!-- Puedes probarla [clickando aquí](https://JCJetz.github.io/Ejercicios_y_proyectos_Bootcamp/proyectos/weather-app) -->
+Puedes probarla [clickando aquí](https://JCJetz.github.io/Ejercicios_y_proyectos_Bootcamp/proyectos/weather-app)
 
 Creada por cuatro estudiantes de UX/UI y tres de Web Development de [NEOLAND](https://www.neoland.es), a fin de practicar nuevos conocimientos y afianzar los ya adquiridos.
 
