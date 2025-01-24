@@ -1,0 +1,16 @@
+{
+  "name": "bootcamp",
+  "version": "1.0.0",
+  "description": "exercises and projects from bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy:weather-app": "npm run deploy --prefix ./proyectos/weather-app",
+    "deploy:another-app": "npm run deploy --prefix ./proyectos/ruta-proyecto"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
