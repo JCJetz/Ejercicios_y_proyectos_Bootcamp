@@ -1,0 +1,15 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.leaflet-container {
+  width: 100wh; 
+  height: 100vh;
+}
+
+.App-main{
+  min-height: 100vh;
+  min-width: 1300px;
+}
+
