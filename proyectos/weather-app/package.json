@@ -2,7 +2,7 @@
   "name": "practica-3-weather",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://JCJetz.github.io/practica-3-weather",
+  "homepage": "https://JCJetz.github.io/Ejercicios_y_proyectos_Bootcamp/proyectos/weather-app",
   "dependencies": {
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.2.0",
