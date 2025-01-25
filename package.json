@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy:weather-app": "npm run deploy --prefix ./proyectos/weather-app",
     "deploy:kanban-app": "npm run deploy --prefix ./proyectos/kanban-board",
-    "deploy:rick_and_morty-app": "npm run deploy --prefix ./proyectos/rick-and-morty"
+    "deploy:rick_and_morty-app": "npm run deploy --prefix ./proyectos/rick_and_morty"
 
   },
   "author": "",
