@@ -28,6 +28,8 @@ This is a straightforward and user-friendly React application that interacts wit
 
 - **Footer**: The footer component with link to my github.
 
+👀 The application has been deployed using GitHub Pages and can be viewer by [clicking here](https://JCJetz.github.io/Ejercicios_y_proyectos_Bootcamp/proyectos/pokedex-app/)
+
 ## 🔍 How it Works
 
 1. **Data Fetching**: The app uses React's `useEffect` to fetch data from the [Pokémon API](https://pokeapi.co/api/v2/pokemon?limit=120).
