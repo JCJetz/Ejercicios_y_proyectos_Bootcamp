@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Ejercicios_y_proyectos_Bootcamp/proyectos/rick_and_morty/static/css/main.21c85aa5.css",
+    "main.js": "/Ejercicios_y_proyectos_Bootcamp/proyectos/rick_and_morty/static/js/main.54ea9259.js",
+    "static/js/787.e5c139a4.chunk.js": "/Ejercicios_y_proyectos_Bootcamp/proyectos/rick_and_morty/static/js/787.e5c139a4.chunk.js",
+    "static/media/Rick_and_Morty.png": "/Ejercicios_y_proyectos_Bootcamp/proyectos/rick_and_morty/static/media/Rick_and_Morty.360c08e6e65e2f5b10f9.png",
+    "static/media/logo.svg": "/Ejercicios_y_proyectos_Bootcamp/proyectos/rick_and_morty/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Ejercicios_y_proyectos_Bootcamp/proyectos/rick_and_morty/index.html",
+    "main.21c85aa5.css.map": "/Ejercicios_y_proyectos_Bootcamp/proyectos/rick_and_morty/static/css/main.21c85aa5.css.map",
+    "main.54ea9259.js.map": "/Ejercicios_y_proyectos_Bootcamp/proyectos/rick_and_morty/static/js/main.54ea9259.js.map",
+    "787.e5c139a4.chunk.js.map": "/Ejercicios_y_proyectos_Bootcamp/proyectos/rick_and_morty/static/js/787.e5c139a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21c85aa5.css",
+    "static/js/main.54ea9259.js"
+  ]
+}
