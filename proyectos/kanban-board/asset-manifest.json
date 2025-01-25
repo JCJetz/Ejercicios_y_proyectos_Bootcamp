@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Ejercicios_y_proyectos_Bootcamp/proyectos/kanban-board/static/css/main.db4b4781.css",
+    "main.js": "/Ejercicios_y_proyectos_Bootcamp/proyectos/kanban-board/static/js/main.dda6d36e.js",
+    "static/js/787.0dc1bfd1.chunk.js": "/Ejercicios_y_proyectos_Bootcamp/proyectos/kanban-board/static/js/787.0dc1bfd1.chunk.js",
+    "static/media/logo-header.png": "/Ejercicios_y_proyectos_Bootcamp/proyectos/kanban-board/static/media/logo-header.7f7fa8113a6e0c0c908f.png",
+    "static/media/github.png": "/Ejercicios_y_proyectos_Bootcamp/proyectos/kanban-board/static/media/github.a5527b5c02e754fc4a6d.png",
+    "index.html": "/Ejercicios_y_proyectos_Bootcamp/proyectos/kanban-board/index.html",
+    "main.db4b4781.css.map": "/Ejercicios_y_proyectos_Bootcamp/proyectos/kanban-board/static/css/main.db4b4781.css.map",
+    "main.dda6d36e.js.map": "/Ejercicios_y_proyectos_Bootcamp/proyectos/kanban-board/static/js/main.dda6d36e.js.map",
+    "787.0dc1bfd1.chunk.js.map": "/Ejercicios_y_proyectos_Bootcamp/proyectos/kanban-board/static/js/787.0dc1bfd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db4b4781.css",
+    "static/js/main.dda6d36e.js"
+  ]
+}
