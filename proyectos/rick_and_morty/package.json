@@ -1,6 +1,6 @@
 {
   "name": "react-exercise-5",
-  "homepage": "http://JCJetz.github.io/Ejercicios_y_proyectos_Bootcamp/proyectos/rick-and-morty-app",
+  "homepage": "http://JCJetz.github.io/Ejercicios_y_proyectos_Bootcamp/proyectos/rick-and-morty",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,7 +17,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build --dest proyectos/rick-and-morty-app",
+    "deploy": "gh-pages -d build --dest proyectos/rick-and-morty",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
