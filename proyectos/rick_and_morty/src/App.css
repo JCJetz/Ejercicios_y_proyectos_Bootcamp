@@ -115,7 +115,6 @@ img.letters {
 width: auto;
 height: 25rem;
 display: flex;
-background-image: url(/src/Rick_and_Morty.png);
 background-repeat: no-repeat;
 background-size: contain;
 background-position: 0 0rem

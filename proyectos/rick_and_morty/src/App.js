@@ -9,6 +9,7 @@ import Characters from "./componentes/Characters";
 //import MultipleFilters from './componentes/MultipleStates';
 //import Filters from './componentes/Filters';
 import InfiniteScroll from "react-infinite-scroll-component";
+import rickAndMortyLogo from './asseets/Rick_and_Morty.png';
 
 function App() {
   const [characters, setCharacters] = useState([]); // variable characters y función setCharacters para manejar su estado, con un estado inicial vacío
@@ -166,7 +167,7 @@ function App() {
 
       <div className="container mt-5">
         <div className="letters">
-          <img className="letters" src="./Rick_and_Morty.png" alt=""></img>
+          <img className="letters" src={rickAndMortyLogo} alt="main logo"></img>
         </div>
 
         <input
