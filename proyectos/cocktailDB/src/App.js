@@ -10,7 +10,7 @@ import Navbar from "./componets/Navbar";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="Ejercicios_y_proyectos_Bootcamp/proyectos/cocktailDB">
       <Navbar />
       <Routes>
         <Route path='/' element={<Home />} />
