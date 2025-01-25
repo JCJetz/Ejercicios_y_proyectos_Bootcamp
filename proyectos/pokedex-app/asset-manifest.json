@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Ejercicios_y_proyectos_Bootcamp/proyectos/pokedex-app/static/css/main.d3e9d637.css",
+    "main.js": "/Ejercicios_y_proyectos_Bootcamp/proyectos/pokedex-app/static/js/main.49d1fc0b.js",
+    "static/js/787.b819b20e.chunk.js": "/Ejercicios_y_proyectos_Bootcamp/proyectos/pokedex-app/static/js/787.b819b20e.chunk.js",
+    "static/media/PokemonImage.png": "/Ejercicios_y_proyectos_Bootcamp/proyectos/pokedex-app/static/media/PokemonImage.67c4dacdee89f7b7ae1f.png",
+    "static/media/BallImage.png": "/Ejercicios_y_proyectos_Bootcamp/proyectos/pokedex-app/static/media/BallImage.c5acb2ca3e6702e290a3.png",
+    "static/media/github.png": "/Ejercicios_y_proyectos_Bootcamp/proyectos/pokedex-app/static/media/github.a5527b5c02e754fc4a6d.png",
+    "index.html": "/Ejercicios_y_proyectos_Bootcamp/proyectos/pokedex-app/index.html",
+    "main.d3e9d637.css.map": "/Ejercicios_y_proyectos_Bootcamp/proyectos/pokedex-app/static/css/main.d3e9d637.css.map",
+    "main.49d1fc0b.js.map": "/Ejercicios_y_proyectos_Bootcamp/proyectos/pokedex-app/static/js/main.49d1fc0b.js.map",
+    "787.b819b20e.chunk.js.map": "/Ejercicios_y_proyectos_Bootcamp/proyectos/pokedex-app/static/js/787.b819b20e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3e9d637.css",
+    "static/js/main.49d1fc0b.js"
+  ]
+}
