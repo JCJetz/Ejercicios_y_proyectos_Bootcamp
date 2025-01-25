@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Ejercicios_y_proyectos_Bootcamp/proyectos/cocktailDB/static/css/main.2a8d11d6.css",
-    "main.js": "/Ejercicios_y_proyectos_Bootcamp/proyectos/cocktailDB/static/js/main.fceb9d0a.js",
+    "main.js": "/Ejercicios_y_proyectos_Bootcamp/proyectos/cocktailDB/static/js/main.a10ee8b1.js",
     "static/media/logo.svg": "/Ejercicios_y_proyectos_Bootcamp/proyectos/cocktailDB/static/media/logo.cc10b49a306ea8c9cbdd7e453613bb59.svg",
     "index.html": "/Ejercicios_y_proyectos_Bootcamp/proyectos/cocktailDB/index.html",
     "main.2a8d11d6.css.map": "/Ejercicios_y_proyectos_Bootcamp/proyectos/cocktailDB/static/css/main.2a8d11d6.css.map",
-    "main.fceb9d0a.js.map": "/Ejercicios_y_proyectos_Bootcamp/proyectos/cocktailDB/static/js/main.fceb9d0a.js.map"
+    "main.a10ee8b1.js.map": "/Ejercicios_y_proyectos_Bootcamp/proyectos/cocktailDB/static/js/main.a10ee8b1.js.map"
   },
   "entrypoints": [
     "static/css/main.2a8d11d6.css",
-    "static/js/main.fceb9d0a.js"
+    "static/js/main.a10ee8b1.js"
   ]
 }
