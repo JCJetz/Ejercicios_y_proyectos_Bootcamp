@@ -13,7 +13,7 @@ const PokeCard = ({ Cardkey, pokemon, fetchPokemonDetails }) => {
           className="card"
           onClick={() => fetchPokemonDetails(fetchPokemonDetails.pokemon.id)}
         >
-          <Link to={`/details/${pokemon.id}`}>
+          <Link to={`./details/${pokemon.id}`}>
             <img
               src={pokemon.image_url}
               alt={`Imagen de ${pokemon.id}`}

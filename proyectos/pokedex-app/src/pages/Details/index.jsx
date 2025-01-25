@@ -26,7 +26,7 @@ function Details() {
   return (
     <div className="container-details">
       <div className="nav-btn">
-      <Link to="/" className="btn-home"><img src={BallImage} alt="Home" className="btn-home" /></Link></div>
+      <Link to={-1} className="btn-home"><img src={BallImage} alt="Home" className="btn-home" /></Link></div>
       <h2 className="pokemonDetailsId">ID: {pokemonDetails.id}</h2>
       <img
         className="imgDetails"

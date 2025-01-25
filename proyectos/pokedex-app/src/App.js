@@ -9,8 +9,8 @@ function App() {
     <>
       <BrowserRouter>
         <Routes>
-          <Route exact path="/" element={<PokeList />} />
-          <Route path="/details/:id" element={<Details />} />
+          <Route exact path="/Ejercicios_y_proyectos_Bootcamp/proyectos/pokedex-app" element={<PokeList />} />
+          <Route path="/Ejercicios_y_proyectos_Bootcamp/proyectos/pokedex-app/details/:id" element={<Details />} />
         </Routes>
       </BrowserRouter>
     </>

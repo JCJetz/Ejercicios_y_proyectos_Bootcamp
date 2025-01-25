@@ -29,6 +29,7 @@ function PokeList() {
           fetch(result.url).then((res) => res.json())
         );
         Promise.all(promises).then((pokemonData) => {
+          console.log(pokemonData);
           const pokemons = pokemonData.map((pokemon) => ({
             id: pokemon.id,
             name: pokemon.name,
