@@ -16,7 +16,7 @@ Context allows data to be shared across the component tree without the need to m
 
 For more info, go through the react documentation: (https://reactjs.org/docs/context.html)
 
-👀 The application has been deployed using GitHub Pages and can be viewer by [clicking here](https://JCJetz.github.io/Ejercicios_y_proyectos_Bootcamp/proyectos/cocktailDB-app/)
+👀 The application has been deployed using GitHub Pages and can be viewer by [clicking here](https://JCJetz.github.io/Ejercicios_y_proyectos_Bootcamp/proyectos/cocktailDB/)
 
 ## 🔑 Features
 

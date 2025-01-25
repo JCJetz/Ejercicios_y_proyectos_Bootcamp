@@ -9,7 +9,7 @@
     "deploy:kanban-app": "npm run deploy --prefix ./proyectos/kanban-board",
     "deploy:rick_and_morty-app": "npm run deploy --prefix ./proyectos/rick_and_morty",
     "deploy:pokedex-app": "npm run deploy --prefix ./proyectos/pokedex-app",
-    "deploy:cocktailDB-app": "npm run deploy --prefix ./proyectos/cocktailDB-app"
+    "deploy:cocktailDB-app": "npm run deploy --prefix ./proyectos/cocktailDB"
 
   },
   "author": "",

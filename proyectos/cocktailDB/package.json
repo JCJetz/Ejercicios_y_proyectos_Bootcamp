@@ -1,6 +1,6 @@
 {
   "name": "cocktails-octo",
-  "homepage": "https://JCJetz.github.io/Ejercicios_y_proyectos_Bootcamp/proyectos/cocktailDB-app",
+  "homepage": "https://JCJetz.github.io/Ejercicios_y_proyectos_Bootcamp/proyectos/cocktailDB",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +15,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build --dest proyectos/cocktailDB-app",
+    "deploy": "gh-pages -d build --dest proyectos/cocktailDB",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
