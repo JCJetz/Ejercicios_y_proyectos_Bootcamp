@@ -18,7 +18,7 @@ This app was created to explore the current status of the characters from the Ri
 - There's an option to display all characters by clicking a specific button.
 - Characters are loaded dynamically as you scroll down the page, using infinite scroll.
 
-👀 The application has been deployed using GitHub Pages and can be viewer by [clicking here](https://JCJetz.github.io/Ejercicios_y_proyectos_Bootcamp/proyectos/rick-and-morty-app/)
+👀 The application has been deployed using GitHub Pages and can be viewer by [clicking here](https://JCJetz.github.io/Ejercicios_y_proyectos_Bootcamp/proyectos/rick_and_morty/)
 
 
 ## 🛠️ Technologies Used
