@@ -166,7 +166,7 @@ function App() {
 
       <div className="container mt-5">
         <div className="letters">
-          <img className="letters" src="/src/Rick_and_Morty.png" alt=""></img>
+          <img className="letters" src="./Rick_and_Morty.png" alt=""></img>
         </div>
 
         <input
