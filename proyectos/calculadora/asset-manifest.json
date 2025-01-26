@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ejercicios_y_proyectos_Bootcamp/proyectos/calculadora/static/css/main.56ca585d.css",
+    "main.js": "/Ejercicios_y_proyectos_Bootcamp/proyectos/calculadora/static/js/main.1c6c94c1.js",
+    "static/js/453.ceb27270.chunk.js": "/Ejercicios_y_proyectos_Bootcamp/proyectos/calculadora/static/js/453.ceb27270.chunk.js",
+    "index.html": "/Ejercicios_y_proyectos_Bootcamp/proyectos/calculadora/index.html",
+    "main.56ca585d.css.map": "/Ejercicios_y_proyectos_Bootcamp/proyectos/calculadora/static/css/main.56ca585d.css.map",
+    "main.1c6c94c1.js.map": "/Ejercicios_y_proyectos_Bootcamp/proyectos/calculadora/static/js/main.1c6c94c1.js.map",
+    "453.ceb27270.chunk.js.map": "/Ejercicios_y_proyectos_Bootcamp/proyectos/calculadora/static/js/453.ceb27270.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56ca585d.css",
+    "static/js/main.1c6c94c1.js"
+  ]
+}
