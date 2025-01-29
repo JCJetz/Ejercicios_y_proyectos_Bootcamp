@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario Básico</title>
+</head>
+<body>
+    
+    <!--Asi esto:
+        
+        <label for="x"></label>
+    <input id="x" type="x" required placeholder="Introduzca el nombre" />   -->
+
+
+
+  <!-- Usando <form action method="get">   , evia la info a la URL q le diga, ej google
+    
+        
+<form action="https://www.google.com" method="get">
+    <label for="name">Nombre</label>
+    <input 
+    id="name" 
+    type="text"
+    required placeholder="Introduzca su nombre" />
+
+-->
+
+<form action="" autocomplete="off">
+    <label for="name">Nombre</label>
+    <input 
+    id="name" 
+    type="text"
+    required placeholder="Introduzca su nombre" />
+
+    <label for="birthdate"></label>
+    <input id="birthdate" required min="2022-06-04" max="2040-06-04" type="date" />
+
+
+    <label for="email">Email</label>
+    <input id="email" type="email" placeholder="Introduzca su email" />
+
+    <label for="skin">Tu color favorito</label>
+    <input id="skin" type="color"  />
+
+    <button type="submit">Enviar</button> <!--Si no escrivo Enviar el botton es peque-->
+    <button type="reset">Reiniciar</button>
+
+</form>
+
+</body>
+</html>
