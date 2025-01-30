@@ -1,0 +1,22 @@
+.navbar {
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 20px;
+background-color: aqua;
+color: rgb(13, 14, 14);
+}
+
+.navbar-brand {
+    font-size: 29px;
+    font-weight: bold;
+}
+.navbar-nav {
+
+    display: flex;
+justify-content: flex-end;
+}
+.nav-item {
+margin: 0 10px;
+list-style: none;
+}

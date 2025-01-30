@@ -1,0 +1,29 @@
+.card {
+    position: relative;
+    margin: auto;
+    overflow: hidden;
+    width: 350px;
+    height: 620px;
+    background: #aaa7a7;
+    box-shadow: 5px 5px 15px rgb(186 126 126 / 50%);
+    border-radius: 10px;
+    src:"http:/xxx" alt="Avatar" style="width:100%";
+
+}
+
+.user-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    padding: 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    place-items: center;
+  }
+  
+  .no-robots {
+    text-align: center;
+    padding: 2rem;
+    color: #666;
+    font-size: 1.2rem;
+  }

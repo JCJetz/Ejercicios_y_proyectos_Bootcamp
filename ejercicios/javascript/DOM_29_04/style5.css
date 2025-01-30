@@ -1,0 +1,76 @@
+.city_container {
+    display: flex;
+    align-items: center;
+    width: 1800px;
+    height: 1800px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 5px 5px 10px rgb(6, 6, 6);
+}
+
+.ciudades {
+    display: flex;
+    margin: 30px;
+    padding: 20px;
+    align-items: center;
+
+}
+
+.canberra_1 {
+margin: 30px;
+padding: 20px;
+background-color: rgb(252, 197, 246);
+width: 500px;
+height: 600px;
+box-shadow: 5px 5px 10px rgb(6, 6, 6);
+}
+.leon_2 {
+ margin: 30px;
+ padding: 20px;
+ background-color: rgb(252, 197, 246);
+ width: 500px;
+ height: 600px;
+ box-shadow: 5px 5px 10px rgb(6, 6, 6);
+}
+.barcelona_3 {
+margin: 30px;
+padding: 20px;
+background-color: rgb(252, 197, 246);
+width: 500px;
+height: 600px;
+box-shadow: 5px 5px 10px rgb(6, 6, 6);
+}
+
+#canberra {
+
+    color: black;
+    background-color: aqua;
+    font-size: medium;   
+}
+
+.nombre_ciudad {
+    color: black;
+    background-color: aqua;
+    font-size: medium;
+}
+
+p {
+font-size: medium;
+color: #000;
+
+}
+
+
+
+   
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+

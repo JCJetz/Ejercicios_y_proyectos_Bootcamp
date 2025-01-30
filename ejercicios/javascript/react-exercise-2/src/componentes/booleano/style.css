@@ -1,0 +1,16 @@
+.figure_rojo {
+    width: 100px;
+    height:100px ;
+    background-color: red;
+    clip-path: circulo(50% at 50% 50%);
+    margin: 30px 20px 40px;
+    }
+    
+    
+    .figure_verde {
+    width: 100px;
+    height:100px ;
+    background-color: rgb(10, 253, 55);
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    margin: 30px 20px 40px;
+    }

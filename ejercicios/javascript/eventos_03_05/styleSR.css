@@ -1,0 +1,133 @@
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+p {
+    color: #065c6e;
+}
+
+
+
+
+
+h3, h1 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: #065c6e;
+}
+
+button {
+    background-color: hwb(350deg 75% 0%);
+    font-size: 19px;
+    width: 186px;
+    height: 62px;
+    border-radius: 12px;
+    font-size:20px;
+}
+
+button:focus {
+    outline: 0;
+  
+}
+
+
+
+
+
+
+/*clase toguel*/
+
+
+
+
+
+
+.container {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 100px 50px;
+    text-align: center;
+
+    font-size: xx-large;
+    background-color: rgb(169 252 207);
+    border-radius: 12px;
+    box-shadow: 0px 0px 15px 5px rgb(0, 0, 0 / 30%);
+
+}
+
+.container h1 {
+    margin-bottom: 20px;
+}
+
+.page-description {
+    font-size: 1.7rem;
+    margin: 0 auto;
+    color: rgb(133 118 118);
+}
+
+.no-browser-support {
+    display: none;
+    font-size: 1.2rem;
+    color: #444;
+    margin-top: 35px;
+}
+
+.voice-app {
+    margin: 40px auto;
+}
+
+#note-textarea {
+    width: 720px;
+    height: 330px;
+    margin: 20px 0;
+    font-size: x-large;
+}
+
+#recording-instructions {
+    margin: 15px auto 60px;
+}
+
+#notes {
+    padding-top: 20px;
+}
+
+.note .header {
+    font-size: 0.9em;
+    color: #888;
+    margin-bottom: 10px;
+}
+
+.note .delete-note,
+.note .listen-note {
+    text-decoration: none;
+    margin-left: 15px;
+}
+
+.note .content {
+    margin-bottom: 40px;
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 50px 25px;
+    }
+
+    button {
+        margin-bottom: 10px;
+    }
+
+}   
+
+
+
+/* -- Demo ads -- */
+
+@media (max-width: 1200px) {
+    #bsaHolder{ display:none;}
+}

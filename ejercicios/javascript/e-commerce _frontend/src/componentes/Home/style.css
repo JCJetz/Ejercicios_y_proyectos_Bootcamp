@@ -1,0 +1,26 @@
+.home-container {
+    padding: 2rem;
+}
+
+.products-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 2rem;
+    padding: 1rem;
+}
+
+.loading, .error {
+    text-align: center;
+    padding: 2rem;
+    font-size: 1.2rem;
+}
+
+.error {
+    color: #ff4444;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+    color: #333;
+}

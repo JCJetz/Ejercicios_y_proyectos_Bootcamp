@@ -1,0 +1,23 @@
+{
+  "name": "tests-25mayo",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cross-env NODE_OPTIONS=--experimental-vm-modules jest --coverage",
+    "start": "node ./index",
+    "ejecutarbanco": "node ./banco"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "jest": "^28.1.0"
+  },
+  "dependencies": {
+    "dialog-node": "^0.2.1",
+    "http": "^0.0.1-security",
+    "popups": "^1.1.3"
+  }
+}
