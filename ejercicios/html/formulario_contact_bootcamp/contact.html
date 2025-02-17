@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+
+    <link rel="stylesheet" href="contact.css"> 
+</head>
+<body>
+    
+
+<div class="container">
+
+  
+  <div class="title">
+    <h1>Formulario de contacto</h1>
+    <p>Gracias por tomarte el tiempo para contactar con nosotros y ayudarnos a mejorar</p>
+  </div>
+
+  <form action="http://www.gooogle.com" method="get" autocomplete="off">
+
+    <div class="datos-nombe">
+
+      <label for="name">Nombre</label> 
+      <input id="name" type="text" required placeholder="Introduce tu nombre" /> 
+          
+    </div>
+    
+    <div class="datos-email">
+
+          <label for="email">Email</label>
+          <input id="email" type="email" placeholder="Introduce tu Email email@gmail.com" />
+    
+    </div>
+    
+    <div class="datos-edad">
+
+          <label for="age">Edad</label>
+          <input id="age" type="number" min="18" placeholder="Introduce tu edad, debes ser mayor de edad" />
+
+    </div>
+
+
+
+    <!--  <p class="rol">¿Que rol describe mejor tu situación actual?</p>   -->
+
+    <div class="select">
+
+        <p class="rol">¿Qué rol describe mejor tu situación actual?</p>
+
+        <!--  <form action="/action_page.php"> --> 
+
+        <label for="so"></label> 
+        <select id="so" name="so">
+          <option value="" selected="selected">- Selecciona tu rol actual</option>
+          <option value="estudiante">Estudiante</option>
+          <option value="completo">Trabajo a tiempo completo</option>
+          <option value="freelance">Freelance</option>
+          <option value="buscanco">Buscando trabajo</option>
+
+          <option value="otro">Otro</option>
+        </select>
+    </div>
+
+   
+
+
+
+    <!--type="radio"-->
+    <div class="recommend">
+      <p class="conocido">¿Recomendarías esta página a un conocido?</p>      
+      
+      <div class="radios">
+        <label class="left"><span>Definitivamente Sí</span>
+          <input type="radio" name="recommend" value="Definitivamente" /> 
+        </label>
+        
+        <label class="left"><span>Quizás</span>
+          <input type="radio" name="recommend" value="Quizás" checked="checked" /> 
+        </label>
+
+
+        <label class="left"><span>No estoy seguro</span>
+          <input type="radio" name="recommend" value="Nose" checked="checked" />   
+        </label>
+  
+      </div>
+    </div>
+
+
+    <!--checkbox-->
+
+    <div class="info-receive">
+      <p class="apliquen">Qué recomendaciones te gustaría recibir? (Marca todas las que apliquen)</p>
+    </div>
+    
+    <div class="checkbox-info">
+
+      <label>
+        <input type="checkbox" id="front" name="info"> Proyectos Front-End
+      </label>
+
+      <label>
+        <input type="checkbox" name="info" id="back"> Proyectos Back-End
+      </label>
+
+      <label>
+        <input type="checkbox" name="info" id="marketing"> Social Media, Marketing
+      </label>
+
+      <label>
+        <input type="checkbox" name="info" id="videojuegos"> Desarrollo de Videojuegos
+      </label>
+
+      <label>
+        <input type="checkbox" name="info" id="tutoriales"> Tutoriales de UX/UI
+      </label>
+
+      <label>
+        <input type="checkbox" name="info" id="otros"> Otros
+      </label>
+
+    </div>
+
+    <div class="dateStart">
+      <p class="date">¿Cuando preferirías que te contactásemos?</p>
+      <label for="start"></label>
+
+      <input type="date" id="start" required name="trip-start"
+            value="2022-01-01"
+            min="2022-01-01" max="2023-12-31">
+    </div>
+
+
+    <p class = "date">¿Otros comentarios o sujerencias?</p>
+    <label for="subject"></label>
+    <textarea id="subject" name="" placeholder="Introduzca sus comentarios..." style="height:200px"></textarea>
+
+    <!-- botón enviar -->
+    <input type="submit" value="Enviar">
+  
+  </form>
+<!--container-->
+</div>
+<!--footer-->
+<footer>
+  <div class="footer">
+    <p>Copyright &copy; <a href="https://github.com/JCJetz" target="_blank">JCJetz</a> Abril 2022</p>
+</footer>
+
+
+
+</body>
+</html>
